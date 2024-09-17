@@ -1,0 +1,26 @@
+.primeiro{
+    background-color: rgb(118, 118, 201);
+}
+
+.segundo{
+    background-color: rgb(202, 42, 42);
+}
+
+.terceiro{
+    background-color: rgb(125, 253, 146);
+}
+
+.exemplo{
+    list-style-type: none;
+}
+
+.bloco{
+    width: 300px;
+    height: 120px;
+    display: inline
+}
+
+.bloco:hover {
+    background-color: rgb(201, 144, 255);
+    color: rgb(121, 96, 145);
+}
